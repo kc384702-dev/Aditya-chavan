@@ -1,0 +1,6 @@
+{
+  "name": "Nexus GPT",
+  "description": "An elegant, conversational AI Assistant client with customizable OpenAI-compatible API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
